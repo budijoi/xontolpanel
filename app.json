@@ -1,5 +1,5 @@
 {
-  "name": "XolPanel - Web VPN Panel",
+  "name": "MOCHVPN VIP Panel",
   "description": "XolPanel - Free Web VPN Panel With WSGI Flask WebServer",
   "stack": "container",
   "env": {
@@ -16,7 +16,7 @@
       "required": true
     },
     "DARK_MODE": {
-      "description": "isi 'yes' kalau mau ganti tema ke Dark Mode, ketik 'no' kalau mau ganti ke tema Light / White ",
+      "description": "isi 'yes' kalau mau ganti tema ke Dark Mode, isi 'no' kalau mau ganti ke tema Light / White ",
       "required": true
     },
     "SERVER": {
